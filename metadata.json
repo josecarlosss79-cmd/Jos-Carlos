@@ -1,0 +1,8 @@
+{
+  "name": "HospGuardian - Hospital Maintenance System",
+  "description": "An intelligent hospital maintenance management system featuring asset tracking, daily critical checklists, automated service orders, and AI-powered predictive alerts with voice integration.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
